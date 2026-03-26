@@ -1,11 +1,4 @@
-<div align="center">
-
-# 👋 Welcome to Kwang Hyuck's GitHub
-
-실제 환경에서 동작하는 시스템을 설계하는  
-**Embedded & System Software Developer 정광혁입니다.**
-
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Welcome%20to%20Kwang%20Hyuck%27s%20GitHub&fontSize=40&fontAlignY=38&desc=Embedded%20%26%20System%20Software%20Developer&descSize=20&descAlignY=60&animation=fadeIn)
 
 ---
 
