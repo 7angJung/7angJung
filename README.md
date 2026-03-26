@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Welcome%20to%20Kwang%20Hyuck%27s%20GitHub&fontSize=40&fontAlignY=38&desc=Embedded%20%26%20System%20Software%20Developer&descSize=20&descAlignY=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Welcome%20to%20Kwang%20Hyuck%20GitHub&fontSize=40&fontAlignY=38&desc=Embedded%20System%20Software%20Developer&descSize=20&descAlignY=60&animation=fadeIn)
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 ---
 
 ## 🏆 Baekjoon Tier
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=peterj0117)](https://solved.ac/peterj0117)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=peterj0117)](https://solved.ac/peterj0117)
 
 ---
 
@@ -79,12 +79,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔌 Embedded / System
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![UART](https://img.shields.io/badge/UART-000000?style=for-the-badge)
 ![Servo Motor](https://img.shields.io/badge/Servo_Motor-FF6F61?style=for-the-badge)
 
 ### 🤖 AI / Vision
-![YOLO](https://img.shields.io/badge/YOLOv5-FF0000?style=for-the-badge)
+![YOLOv5](https://img.shields.io/badge/YOLOv5-FF0000?style=for-the-badge)
 ![EasyOCR](https://img.shields.io/badge/EasyOCR-00A98F?style=for-the-badge)
 
 ---
@@ -104,8 +104,5 @@
 ---
 
 ## 📊 GitHub Stats
-![KwangHyuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=7angJung&show_icons=true)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=7angJung&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7angJung&layout=compact)
-
----
