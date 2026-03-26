@@ -1,12 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Welcome%20to%20Kwang%20Hyuck%27s%20GitHub&fontSize=40&fontAlignY=38&desc=Embedded%20%26%20System%20Software%20Developer&descSize=20&descAlignY=60&animation=fadeIn)
 
+<div align="center">
+
+### 🔧 데이터를 실제 물리 시스템으로 연결하는 개발자
+
+</div>
+
 ---
 
 ## 🧠 About Me
-- 🔧 HW-SW 통합 시스템 설계 및 개발
+- 🔌 HW-SW 통합 시스템 설계 및 개발
 - ⚡ 실시간 데이터 처리 기반 시스템 구현
-- 🧩 문제 해결 중심 개발 (구조 → 원인 → 개선)
-- 📍 Backend → Embedded 방향 전환 (강점 기반 전략)
+- 🧩 구조 설계 → 문제 정의 → 개선까지 직접 수행
+- 📍 Backend 경험을 기반으로 Embedded/System SW로 확장
 
 ---
 
@@ -22,8 +28,12 @@
 
 - YOLOv5 + EasyOCR 기반 텍스트 인식
 - 한글 초성·중성·종성 분해 후 점자 변환
-- 점자 데이터를 0~7 구조로 인코딩하여 하드웨어 제어
+- 점자 데이터를 **0~7 구조로 인코딩하여 하드웨어 제어**
 - UART 통신 기반 Arduino + Servo 제어
+
+📌 **Key Point**
+- 데이터 구조 불일치 해결을 위한 **중간 변환 계층 설계**
+- 소프트웨어 → 하드웨어로 이어지는 전체 파이프라인 구현
 
 📌 **성과**
 - 정확도 83% → 95% 개선
@@ -34,9 +44,12 @@
 ### 📱 M-GIT (SW_DDOS)
 > 컴퓨터공학과 학생을 위한 진로 추천 앱
 
-- Firebase 기반 사용자 데이터 관리
-- 인증 및 실시간 DB 구조 설계
-- 비용 제약 상황에서 AWS → Firebase 전환
+- Firebase 기반 사용자 데이터 관리 및 인증 구현
+- 사용자 성향 데이터 구조 설계
+- AWS → Firebase 전환 (비용 제약 대응)
+
+📌 **Key Point**
+- 제약 환경에서 기술 선택 및 서비스 구조 설계 경험
 
 ---
 
@@ -45,8 +58,11 @@
 
 - Spring Boot 기반 REST API 설계
 - PostgreSQL + JPA 기반 데이터 처리
-- OAuth2 및 사용자 인증 시스템 구현
-- 배포 직전 단계
+- OAuth2 기반 사용자 인증 구현
+
+📌 **Key Point**
+- 설문 데이터 기반 로직 설계 및 백엔드 구조 구현
+- 실제 서비스 배포 직전 단계
 
 ---
 
